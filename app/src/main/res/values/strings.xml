@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notification Manager</string>
+    <string name="dialog_permission_title">Permission Warning</string>
+    <string name="dialog_permission_content">You dont have permission, please enable setting</string>
+</resources>
